@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(0, 0, 64);
+}
+
+div{
+    background-color:rgb(161, 212, 230);
+    color: black;
+    border-radius: 10px;
+    padding: 1px;
+    margin: 20px 
+}
+
+#padding{
+    border-radius: 10px;
+    padding: 1px;
+    margin: 20px 
+}

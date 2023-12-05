@@ -5,9 +5,14 @@
   }
 
   .p1{
-    font-size: 60px;
+    font-size: 80px;
 }
 
 body{
     background-color: rgb(255, 255, 255);
+}
+
+.inline-block {
+  display: inline-block;
+  box-align: center;
 }

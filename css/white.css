@@ -38,16 +38,30 @@ body{
   .text {
     background-color: #ffffff;
     color: rgb(0, 0, 0);
-    font-size: 16px;
+    font-size: 25px;
     padding: 16px 32px;
+    font-family:  'Alex Brush';
   }
 
   .w1 {
-    font-family: 'Alex Brush';font-size: 80px;
+    font-family: 'Alex Brush';font-size: 100px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-right: 80px;
+    margin-left: 80px;
 }
 
 p {
   margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+
+.w2 {
+  font-family: 'Alex Brush';font-size:25px;
+  margin-top: 10px;
   margin-bottom: 50px;
   margin-right: 80px;
   margin-left: 80px;

@@ -11,12 +11,14 @@ body{
   *{margin:0;padding:0;}
   .wrap{width:100%;}
   .gradient-text{
-    background: linear-gradient(to right, rgb(255, 0, 43),rgb(150, 1, 21),rgb(55, 0, 0));
+    background: linear-gradient(to right, rgb(255, 24, 24),rgb(235, 0, 0),rgb(75, 0, 0));
+    font-family: 'Asset';font-size: 70px;
     background-size: 200% 200%;
     animation: rainbow 3s ease-in-out infinite;
     background-clip: text;
+    -webkit-background-clip:text;
     color:rgb(255, 255, 255);
-    font: size 70px;;
+    font-size:150px;
     display:block;
     text-align:center;
     transition: color .2s ease-in-out;
@@ -24,13 +26,14 @@ body{
     font-weight:900;
   }
   .gradient-text:hover{
-    color:rgba(0, 0, 0, 0);
+    color:rgba(0,0,0,0);
   }
   @keyframes rainbow { 
     0%{background-position:left}
     50%{background-position:right}
     100%{background-position:left}
   }
+
 
   .p2 {
     margin-top: 50px;
@@ -45,3 +48,5 @@ body{
     margin-right: 80px;
     margin-left: 80px;
   }
+
+

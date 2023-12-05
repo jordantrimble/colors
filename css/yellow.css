@@ -1,6 +1,7 @@
 body{
-    background-color: #fff495;
-    color: #daba16;
+    background-color: #fffa93;
+    color: #deb500;
+    font-family: 'Nabla';font-size: 30px;
 }
 
 p {
@@ -26,6 +27,8 @@ p {
     height: auto;
     transition: .5s ease;
     backface-visibility: hidden;
+    margin-top: 50px;
+    margin-left: 30px;
   }
   
   .middle {
@@ -49,11 +52,11 @@ p {
   
   .text {
     background-color: #ffffff;
-    color: rgb(210, 151, 4);
-    font-size: 16px;
+    color: rgb(196, 140, 0);
+    font-size: 20px;
     padding: 16px 32px;
   }
 
 .b1 {
-  font-family: 'Bungee Shade';font-size: 60px;
+  font-family: 'Nabla';font-size: 90px;
 }

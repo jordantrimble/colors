@@ -8,3 +8,23 @@ p {
     margin-right: 80px;
     margin-left: 80px;
   }
+
+
+img {
+    width: 60%;
+    height: auto;
+    float: right;
+  }
+
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 65;
+    color: rgb(0, 31, 8);
+}
+
+.p2{
+    font-size: 75px;
+    font-family: 'Abril Fatface';
+    color: rgb(0, 31, 8);
+}

@@ -1,5 +1,6 @@
 body{
     background-color: #ff9e54;
+    color: #d23400;
 }
 
 p {
@@ -8,3 +9,19 @@ p {
     margin-right: 80px;
     margin-left: 80px;
   }
+
+  img {
+    width: 60%;
+    height: auto;
+    
+  }
+
+.img2{
+    width: 60%;
+    height: auto;
+    float: right;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+
+}

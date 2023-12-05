@@ -5,6 +5,7 @@ body{
 
 img{
     border-radius: 50%;
+    padding: 30px;
 }
 
 .container {
@@ -48,7 +49,7 @@ img{
   }
 
 .b1 {
-  font-family: 'Bungee Shade';font-size: 60px;
+  font-family: 'Bungee Shade';font-size: 80px;
 }
 
 p {
@@ -56,4 +57,15 @@ p {
   margin-bottom: 50px;
   margin-right: 80px;
   margin-left: 80px;
+}
+
+
+.p3{
+  font-size: 20px;
+  padding: auto;
+}
+
+.p2{
+  font-size: 25px;
+  padding: 30px;
 }

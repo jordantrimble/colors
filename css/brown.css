@@ -2,3 +2,12 @@ body{
     background-color: rgb(213, 159, 118);
     color: rgb(48, 26, 0);
 }
+
+.b1 {
+    font-family: 'Monoton';font-size: 90px;
+}
+
+p{
+    font-size: large;
+    font-weight: 200;
+}

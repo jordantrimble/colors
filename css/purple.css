@@ -1,4 +1,21 @@
 body{
     background-color: rgb(212, 164, 240);
-    color: rgb(21, 0, 48);
+    color: rgb(35, 0, 82);
+}
+
+.p1 {
+    font-family: 'Rye';font-size: 90px;
+}
+
+img {
+    width: 60%;
+    height: auto;
+    
+  }
+
+p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
